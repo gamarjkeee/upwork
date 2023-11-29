@@ -1,0 +1,12 @@
+<svg width="100" height="100" viewBox="0 0 100 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="122" clip-path="url(#clip0_1_908)">
+<path id="Vector 1" d="M100 0H0V100H100V0Z" stroke="white" stroke-width="2"/>
+<circle id="Ellipse 2" cx="99" cy="0.999996" r="98" transform="rotate(90 99 0.999996)" stroke="white" stroke-width="2"/>
+<circle id="Ellipse 1" cx="0.999996" cy="99" r="98" transform="rotate(90 0.999996 99)" stroke="white" stroke-width="2"/>
+</g>
+<defs>
+<clipPath id="clip0_1_908">
+<rect width="100" height="100" fill="white"/>
+</clipPath>
+</defs>
+</svg>
