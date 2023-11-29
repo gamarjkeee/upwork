@@ -510,6 +510,10 @@ h6 {
   background-color: #2c3378;
 }
 
+.news__slider:not(:last-child) {
+  margin-bottom: 0.625rem;
+}
+
 .header-news__container {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -1428,6 +1432,10 @@ h6 {
         -ms-flex-align: center;
             align-items: center;
     row-gap: 1.25rem;
+  }
+
+  .header-news__navigation {
+    text-align: center;
   }
 }
 
